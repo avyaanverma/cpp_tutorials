@@ -1,2 +1,3 @@
-Hello Everyone
-This is going to be my  code for learning C++.
+# Learning C++ along with Github
+It will be great experience I hope!
+
